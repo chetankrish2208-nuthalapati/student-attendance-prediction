@@ -160,3 +160,20 @@ Through this project, I learned how to:
 This project demonstrates a complete beginner-level machine learning workflow for predicting student attendance using Orange Data Mining.
 
 The evaluation showed that the tested models had limited predictive performance with the selected features. This also demonstrates an important part of machine learning: **evaluating model performance rather than assuming that a model will produce accurate predictions.**
+
+## Project Screenshots
+
+### Orange Workflow
+![Orange Workflow](Images/workflow.png)
+
+### Model Evaluation
+![Model Evaluation](Images/test_score.png)
+
+### Study Hours vs Attendance
+![Study Hours vs Attendance](Images/study_hours_vs_attendance.png)
+
+### Previous Exam Score vs Attendance
+![Previous Exam Score vs Attendance](Images/previous_score_vs_attendance.png)
+
+### Predictions
+![Predictions](Images/predictions.png)
