@@ -164,16 +164,16 @@ The evaluation showed that the tested models had limited predictive performance 
 ## Project Screenshots
 
 ### Orange Workflow
-![Orange Workflow](Images/workflow.png)
+![Orange Workflow](Images/workflow.jpeg)
 
 ### Model Evaluation
-![Model Evaluation](Images/test_score.png)
+![Model Evaluation](Images/test%20score.jpeg)
 
 ### Study Hours vs Attendance
-![Study Hours vs Attendance](Images/study_hours_vs_attendance.png)
+![Study Hours vs Attendance](Images/student_hours_vs_attendance.jpeg)
 
 ### Previous Exam Score vs Attendance
-![Previous Exam Score vs Attendance](Images/previous_score_vs_attendance.png)
+![Previous Exam Score vs Attendance](Images/exam_scores_vs_attendance.jpeg)
 
 ### Predictions
-![Predictions](Images/predictions.png)
+![Predictions](Images/Predictions.jpeg)
